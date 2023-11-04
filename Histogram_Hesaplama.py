@@ -1,3 +1,4 @@
+#Hilem Nur Erdem 02215076005
 # Gerekli kütüphaneler içe aktarılır.
 import cv2
 import numpy as np
